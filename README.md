@@ -35,9 +35,9 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
      -  Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level. The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data. (Course Project)
      -  [Emotion recognition with mobile phone & wearable sensor data](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf)
 ### :school: Personal Study
-  - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
+  - 10.2021 ~  : Graph-Neural-Network(GNN) course[CS224W] lecture in Youtube of Stanford University
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
-  - 05.2021 ~ 07.2021 : Completion of the course about **Recommender System Lecture**  in Fastcampus
+  - 10.2021 ~ : **Recommender System Lecture**  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
 
 
