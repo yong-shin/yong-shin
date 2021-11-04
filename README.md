@@ -5,7 +5,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
 ### 🎓 Education
   - KAIST | Korea Advanced Institute of Science and Technology (08.2020 ~) 
     - M.S. Student in Knowledge Service Engineering(KSE)
-    - [Interactive Computing Lab](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main)(Department of Knowledge Service Engineering)
+    - [Interactive Computing Lab](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main)
   - HGU | Handong Global University (03.2014 ~ 07. 2020)
     - B.A. in Mathematics and Statistics
 
