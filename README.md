@@ -14,14 +14,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
     -  We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN. We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
       - [Fake video through video and speech synthesis](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
       - [Demo video](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
-  - 09.2020 ~ 07.2021 : **President** in 15th Kwanjeong Education Foundation
-    -  [**Kwanjeong Community Manager** ](https://www.facebook.com/groups/mensches/?multi_permalinks=4245840055438790&notif_id=1624750982923666&notif_t=feedback_reaction_generic&ref=notif)
-  - 06.2018 ~ 12.2019 : TA/RA at Computer Communication LAB(CCLAB), Chungbuk National University
-    -  C/C++ Programming
-    -  Application Computer Programming
-    -  Software Engineering
-  - 09.2017 ~ 12.2017 : RA at Natural Language Processing LAB(NLP-LAB), Chungbuk National University
-    - Preprocessing of Korean Legal Dictionary Processing System with ETRI
+
 
 ### :school: Personal Study
   - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
