@@ -1,17 +1,19 @@
 ### 📡 Interests
-**Recommender System**, **NLP**, IR, Knowledge Graph
+Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data Analysis, Human-Computer Interaction
 
 
 ### 🎓 Education
-  - 🇰🇷 03.2020 ~ : Korea Advanced Institute of Science and Technology, [Knowledge Innovation Research Center(KIRC)](https://kirc.kaist.ac.kr/)(Department of Knowledge Service Engineering)
+  - 🇰🇷 08.2020 ~ : Korea Advanced Institute of Science and Technology, [Interactive Computing Lab](https://http://ic.kaist.ac.kr/wiki/wiki.cgi?Main/)(Department of Knowledge Service Engineering)
     - M.S. Student
-  - 🇰🇷 03.2013 ~ 12. 2019 : Chungbuk National University
-    - B.S. in Computer Science
+  - 🇰🇷 03.2013 ~ 12. 2019 : Handong Global University
+    - B.A. in Mathematics and Statistics
 
 
-### 💻 Work Experience
-  - 12.2020 ~ 08.2021 : **Project Manager** in the Hana Financial Project
-    -  **Recommender System Design** based on Customer Information & Financial Products
+### 💻 Project
+  - Deepbrain AI | Video & Speech synthesis (09.2021 ~ 11.2021)
+    -  We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN. We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
+      - [PPT](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf) Fake video through video and speech synthesis
+      - [Demo video](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
   - 09.2020 ~ 07.2021 : **President** in 15th Kwanjeong Education Foundation
     -  [**Kwanjeong Community Manager** ](https://www.facebook.com/groups/mensches/?multi_permalinks=4245840055438790&notif_id=1624750982923666&notif_t=feedback_reaction_generic&ref=notif)
   - 06.2018 ~ 12.2019 : TA/RA at Computer Communication LAB(CCLAB), Chungbuk National University
