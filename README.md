@@ -41,4 +41,4 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
     - https://fastcampus.co.kr/data_online_rs
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yong-shin)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yong-shin)](https://github.com/anuraghazra/github-readme-stats) -->
