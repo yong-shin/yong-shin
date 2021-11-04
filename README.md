@@ -18,8 +18,12 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
     -  We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development. Furthermore, we analyze the effectiveness of digital treatments by applying causal analysis.
     -  Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee, “[Causal Analysis of Observational Mobile Sensor Data: A Comparative Study](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring Conference, Jeju Island, Korea (2021) 
     -  [KCC 2021](https://docs.google.com/presentation/d/108yi3Ldb15lDyjJc54XWE5Y-oxGyX4RX4hg52pHEm7Y/edit?usp=sharing)
-
-
+  - KAIST | Smart Mask (10.2020 ~ )
+    -  We review existing types of smart masks and study what sensor data can be collected through smart masks. Also, we develop emotional and stress monitoring algorithms through smart mask sensor data.
+  - KAIST | Contact Tracing (08.2020 ~ 12.2020)
+    -  We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. In addition, the need to introduce a place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive signals with client devices.
+    -  [Controlled Experiments (Results)](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
+     
 ### :school: Personal Study
   - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
