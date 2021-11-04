@@ -22,7 +22,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
     -  We review existing types of smart masks and study what sensor data can be collected through smart masks. Also, we develop emotional and stress monitoring algorithms through smart mask sensor data.
   - KAIST | Contact Tracing (08.2020 ~ 12.2020)
     -  We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. In addition, the need to introduce a place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive signals with client devices.
-    -  [Controlled Experiments (Results)](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
+    -  [Controlled Experiments](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
      
 ### :school: Personal Study
   - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
