@@ -23,7 +23,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
   - KAIST | Contact Tracing (08.2020 ~ 12.2020)
     -  We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. In addition, the need to introduce a place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive signals with client devices.
     -  [Controlled Experiments](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
-     
+
 ### :school: Personal Study
   - 08.2021 ~ 09.2021 : In taking the graph-neural-network(GNN) course about **CS224W Lecture**  in Youtube of Stanford University
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
