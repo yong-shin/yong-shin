@@ -10,10 +10,10 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
 
 
 ### 💻 Project
-  - Deepbrain AI | Video & Speech synthesis (09.2021 ~ 11.2021)
-    -  We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN. We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
-      - [Fake video through video and speech synthesis](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
-      - [Demo video](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
+Deepbrain AI | Video & Speech synthesis (09.2021 ~ 11.2021)
+  -  We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN. We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
+    - [Fake video through video and speech synthesis](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
+    - [Demo video](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
 
 
 ### :school: Personal Study
