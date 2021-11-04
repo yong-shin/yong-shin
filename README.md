@@ -38,7 +38,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
 ### :school:  Personal Study
   - 10.2021 ~  : Graph-Neural-Network(GNN) course[CS224W] lecture in Youtube of Stanford University
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
-  - 10.2021 ~ : **Recommender System Lecture**  in Fastcampus
+  - 10.2021 ~ : Recommender System Lecture  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
 
 
