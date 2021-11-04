@@ -3,9 +3,9 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
 
 
 ### 🎓 Education
-  - 🇰🇷 08.2020 ~ : Korea Advanced Institute of Science and Technology, [Interactive Computing Lab](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main)(Department of Knowledge Service Engineering)
+  - 🇰🇷 08.2020 ~ : KAIST | Korea Advanced Institute of Science and Technology, [Interactive Computing Lab](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main)(Department of Knowledge Service Engineering)
     - M.S. Student
-  - 🇰🇷 03.2013 ~ 12. 2019 : Handong Global University
+  - 🇰🇷 03.2014 ~ 07. 2020 : HGU | Handong Global University
     - B.A. in Mathematics and Statistics
 
 
