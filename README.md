@@ -1,8 +1,8 @@
-### 📡 Interests
+### 📡  Interests
 Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data Analysis, Human-Computer Interaction
 
 
-### 🎓 Education
+### 🎓  Education
   - KAIST | Korea Advanced Institute of Science and Technology (08.2020 ~) 
     - M.S. Student in Knowledge Service Engineering(KSE)
     - [Interactive Computing Lab](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main)
@@ -10,7 +10,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
     - B.A. in Mathematics and Statistics
 
 
-### 💻 Project
+### 💻  Project
   - Deepbrain AI | Video & Speech synthesis (09.2021 ~ 11.2021)
     -  We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN. We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
     - [Fake video through video and speech synthesis_ppt](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
@@ -35,7 +35,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
   -  KAIST | [KSE801] Sensor Data Science (Fall 2020) 
      -  Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level. The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data. (Course Project)
      -  [Emotion recognition with mobile phone & wearable sensor data](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf)
-### :school: Personal Study
+### :school:  Personal Study
   - 10.2021 ~  : Graph-Neural-Network(GNN) course[CS224W] lecture in Youtube of Stanford University
     - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
   - 10.2021 ~ : **Recommender System Lecture**  in Fastcampus
