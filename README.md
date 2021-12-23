@@ -1,5 +1,5 @@
 ### 📡  Interests
-Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data Analysis, Human-Computer Interaction
+Video & Speech synthesis, Causal Inference, Recommendation System, Statistical Data Analysis, Human-Computer Interaction
 
 
 ### 🎓  Education
@@ -24,7 +24,7 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
   - KAIST | Contact Tracing (08.2020 ~ 12.2020)
     -  We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. In addition, the need to introduce a place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive signals with client devices.
     -  [Controlled Experiments_ppt](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
-  - KAIST | [KSE531] Human-Computer Interaction: Theory and Design (Spring 2021)
+<!--   - KAIST | [KSE531] Human-Computer Interaction: Theory and Design (Spring 2021)
     -  We introduce a new interpretation of art experience by presenting CAN(Communicative Art Network), which allows viewers to achieve self-reliant thinking based on their art experience. CAN is a platform that consists of CAN AR Comment System and CAN SNS. (Course Project) 
     -  [“Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)
     -  [CAN_ppt](https://docs.google.com/presentation/d/1eYYdJaLrU1f3uUwvGD1NqW2Ooxt-x7VGwnH_661J9uQ/edit)
@@ -34,10 +34,8 @@ Causal Inference, Recommender System, Video & Speech synthesis, Statistical Data
      -  [EFNet_ppt](https://docs.google.com/presentation/d/1RAtFt_BKopN5EEDb5RL-yWLqL48HUvLs6Lj7cVxYFuw/edit#slide=id.p1)
   -  KAIST | [KSE801] Sensor Data Science (Fall 2020) 
      -  Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level. The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data. (Course Project)
-     -  [Emotion recognition with mobile phone & wearable sensor data](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf)
+     -  [Emotion recognition with mobile phone & wearable sensor data](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf) -->
 ### :school:  Personal Study
-  - 10.2021 ~  : Graph-Neural-Network(GNN) course[CS224W] lecture in Youtube of Stanford University
-    - [CS224W Syllabus](http://web.stanford.edu/class/cs224w/), [Lecture](https://youtu.be/JAB_plj2rbA)
   - 10.2021 ~ : Recommender System Lecture  in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
 
