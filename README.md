@@ -36,8 +36,7 @@ Video & Speech synthesis, Causal Inference, Recommendation System, Statistical D
      -  Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level. The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data. (Course Project)
      -  [Emotion recognition with mobile phone & wearable sensor data](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf) -->
 ### :school:  Personal Study
-  - 10.2021 ~ : Recommender System Lecture  in Fastcampus
+  - 02.2022 ~ : Natural Language Processing in Fastcampus
     - https://fastcampus.co.kr/data_online_rs
-
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yong-shin)](https://github.com/anuraghazra/github-readme-stats) -->
