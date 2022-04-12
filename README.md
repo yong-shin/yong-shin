@@ -1,5 +1,5 @@
 ### 📡  Interests
-Video & Speech synthesis, Causal Inference, Recommendation System, Statistical Data Analysis, Human-Computer Interaction
+Video & Speech synthesis, Deep Learning, Emotion Recognition, Human-Computer Interaction
 
 
 ### 🎓  Education
