@@ -1,5 +1,5 @@
 ### 📡  Interests
-Video & Speech synthesis, Deep Learning, Emotion Recognition, Human-Computer Interaction
+Deep Learning, Natural Language Processing, Video & Speech synthesis, Emotion Recognition, Human-Computer Interaction
 
 
 ### 🎓  Education
