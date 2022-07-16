@@ -13,7 +13,7 @@ Natural Language Processing, Video & Speech synthesis, Emotion Recognition, Huma
 ### 💻  Project
   - KAIST | Emotion Recognition (10.2021 ~ 07.2022)
     -  In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks. We used emotion-related data called K-EmoCon collected during the debate process to empirically evaluate our model. The results showed that the counterpart’s speech and the physiological signals had a positive impact on predicting the speaker’s emotions.
-    - [<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf), Master thesis, 2022 Spring
+    - "[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)", Master thesis, 2022 Spring
     - [<u>[PPT] Master Defense</u>](https://docs.google.com/presentation/d/1cDFI99C3vEIuxKN2ilplcjJVVHhv0JH1KhfW5QJ_XJA/edit?usp=sharing)
   - Deepbrain AI | Video & Speech synthesis (09.2021 ~ 11.2021)
     -  We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN. We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
