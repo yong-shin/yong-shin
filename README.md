@@ -1,5 +1,5 @@
 ### 📡  Interests
-Natural Language Processing, Video & Speech synthesis, Emotion Recognition, Human-Computer Interaction
+Retrieval-Augmented Generation, Natural Language Processing, Emotion Recognition, Human-Computer Interaction
 
 
 ### 🎓  Education
